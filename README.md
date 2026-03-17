@@ -1,12 +1,8 @@
 <h1 align="center">👋 你好，我是黄浩宸</h1>
 <p align="center">毕业于重庆文理学院 | 人工智能专业</p>
 <p align="center">
-  <a href="mailto:tacohaochen@163.com">
-    <img src="https://img.shields.io/badge/邮箱-tacohaochen@163.com-blue?style=flat-square&logo=gmail" alt="邮箱">
-  </a>
-  <a href="https://github.com/TacoHaoChen">
-    <img src="https://img.shields.io/github/followers/TacoHaoChen?label=GitHub%20Followers&style=flat-square&color=orange" alt="GitHub 关注数">
-  </a>
+  📧 邮箱：tacohaochen@163.com &nbsp;&nbsp;
+  🌟 GitHub：<a href="https://github.com/TacoHaoChen">TacoHaoChen</a>
 </p>
 
 ### 📌 关于我
