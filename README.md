@@ -1,12 +1,11 @@
-<h1 align="center">👋 你好，我是黄浩宸</h1>
-<p align="center">毕业于重庆文理学院 | 人工智能专业</p>
+<h1 align="center">👋 你好，我是Taco</h1>
+<p align="center">人工智能专业</p>
 <p align="center">
   📧 邮箱：tacohaochen@163.com &nbsp;&nbsp;
   🌟 GitHub：<a href="https://github.com/TacoHaoChen">TacoHaoChen</a>
 </p>
 
 ### 📌 关于我
-- 🎓 毕业于重庆文理学院人工智能专业
 - 🐍 熟练使用 Python，了解树莓派开发
 - 🚀 独立开发并发布 2 款微信小程序：
   - 摇骰子比大小
